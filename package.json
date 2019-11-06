@@ -1,0 +1,11 @@
+{
+  "name": "ezz",
+  "version": "1.0.0",
+  "description": "Best bot PL!",
+  "main": "bot.js",
+  "author": "Flawani",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
